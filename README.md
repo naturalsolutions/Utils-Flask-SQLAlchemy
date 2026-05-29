@@ -1,3 +1,7 @@
+## Fredon
+
+- [ ] https://github.com/PnX-SI/Utils-Flask-SQLAlchemy/pull/71
+
 ## Librairie "outil" pour SQLAlchemy et Flask
 
 [![pytest](https://github.com/PnX-SI/Utils-Flask-SQLAlchemy/actions/workflows/pytest.yml/badge.svg)](https://github.com/PnX-SI/Utils-Flask-SQLAlchemy/actions/workflows/pytest.yml)
